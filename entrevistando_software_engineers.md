@@ -1,5 +1,7 @@
 # Entrevistando Ingenieros de Software
 
+<sub>por Alberto Romero, Engineering Lead @ GoExpedi [We are hiring :P](https://apply.workable.com/goexpedi/)</sub>
+
 De manera concisa, me gustaría presentarles algunos retos que he aplicado al momento de entrevistar candidatos, y también otros interesantes que me han aplicado, los cuales he visto como interesantes y que creo ayudan a evaluar candidatos de manera holística.
 
 ## 1. Code Review Interview
