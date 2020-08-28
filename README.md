@@ -2,6 +2,9 @@
 
 Este repo contiene artículos que han sido publicados por alguien del grupo.
 
+## Resúmenes de Reuniones anteriors
+[En esta liga](minutas.md) se pueden encontrar los resúmenes de las reuniones que hemos tenido.
+
 ## Lista de artículos (más recientes hasta arriba):
 
 [Entrevistando Ingenieros de Software](entrevistando_software_engineers.md) por Alberto Romero, Engineering Lead @ GoExpedi [We are hiring :P](https://apply.workable.com/goexpedi/)
