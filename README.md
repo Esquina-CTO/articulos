@@ -2,7 +2,7 @@
 
 Este repo contiene artículos que han sido publicados por alguien del grupo.
 
-## Resúmenes de Reuniones anteriors
+## Resúmenes de Reuniones anteriores
 [En esta liga](minutas.md) se pueden encontrar los resúmenes de las reuniones que hemos tenido.
 
 ## Lista de artículos (más recientes hasta arriba):
